@@ -1,3 +1,3 @@
 # web_design
 
-rest_coutries api
+rest_countries api
